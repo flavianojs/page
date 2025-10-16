@@ -1,12 +1,12 @@
 # Project information
-site_name: "Tatiana G. Rappoport "
-site_description: Tatiana G. Rappoport"
-site_author: "TGR"
-site_url: https://tgrappoport.github.io/page/
+site_name: "Flaviano J. Marchiori dos Santos"
+site_description: "Flaviano J. Marchiori dos Santos"
+site_author: "Flaviano J. Marchiori dos Santos"
+site_url: https://flaviano.github.io/page/
 
 
 # Copyright
-copyright: "Tatiana G. Rappoport 2024"
+copyright: "Flaviano J. Marchiori dos Santos 2025"
 
 # Navigation
 
@@ -16,9 +16,9 @@ nav:
   - Publications: 'publications.md'
   - Research:
     - 'research/index.md'
-    - Orbitronics: 'research/orbitronics.md'
-    - Photonics: 'research/photonics.md'
-    - Quantum Transport: 'research/transport.md'
+    - Complex magnetism: 'research/complexmagnetism.md'
+    - Spin waves (magnons): 'research/spinwaves.md'
+    - DFT: 'research/DFT.md'
   - Outreach: outreach.md
   - Teaching: teaching.md
    
